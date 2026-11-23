@@ -1,0 +1,6 @@
+OBlock/Music/*.mp3
+OBlock/Music/*.ogg
+OBlock/Music/*.wav
+*.zip
+.DS_Store
+Thumbs.db
