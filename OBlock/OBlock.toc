@@ -1,8 +1,8 @@
 ## Interface: 16001
 ## Title: O BLOCK - World PvP Music
-## Notes: Open-world PvP soundtrack with user-supplied audio. Created by Kevon'dre.
+## Notes: Open-world PvP soundtrack, randomized alerts, and fade-out. Created by Kevon'dre.
 ## Author: Kevon'dre
-## Version: 1.6.0
+## Version: 2.0.4
 ## SavedVariables: OBlockDB
 ## IconTexture: Interface\AddOns\OBlock\Media\Icon
 OBlock.lua
